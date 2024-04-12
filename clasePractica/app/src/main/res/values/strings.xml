@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">clasePractica</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="contactos">
+        <item>Jesus Mattos</item>
+        <item>Sara Ortiz</item>
+        <item>Jesus Ortiz</item>
+        <item>Luis Paredes</item>
+        <item>Elizabeth Morón</item>
+    </string-array>
+</resources>
